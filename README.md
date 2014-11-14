@@ -1,7 +1,5 @@
-Line-Drawing-Algorithm-in-C++-and-OpenGL
+Line Drawing Algorithm with OpenGL
 ========================================
-
-Course Project
 
 I implement two line drawing algorithm functions: Basic Line Drawing algorithm and Bresenham’s Line Drawing algorithm.
 
